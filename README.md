@@ -3,5 +3,6 @@ you can find a detailed explaination about the project in the wifi_beb_report in
 files that you will need to run the simulations are in the Code directory and also in the git of the article authors : https://github.com/trishac97/NS3-802.11g-Backoff/tree/main
 a detailed explenation about how to run the simualtions on the wifi web report in pages 22-31 
 
-![Uploading image.png…]()
+![image](https://github.com/saadisaadi1/technion-networking-project/assets/50622237/5656c5e4-ef11-4e72-8167-8b21a99db79d)
+
 
